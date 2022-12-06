@@ -38,7 +38,7 @@ It ensures the transparency in a trustless environment, enabling rapid action to
 
 -   React
 -   Bootstrap
--   Tezos
+-   Python
 -   SmartPy
 
 <a id=wheres-the-problem></a>
