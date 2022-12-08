@@ -1,4 +1,5 @@
-# Climate Fintech Funding Blocks Application
+# Climate Fintech Funding App
+
 
 # Overview
 
