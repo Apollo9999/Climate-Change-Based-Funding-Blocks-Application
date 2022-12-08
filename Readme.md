@@ -1,10 +1,14 @@
 # Climate Fintech Funding App
 
+# Website fundingblocks.ml
+
 
 # Overview
 
 ### The Project Obective and intent is to make mainstream climate tech application to help make an impact on the earth. Leverage the latest  technology to track data and show your climate impact while expanding your business reach with local payment methods across all the countries of the world.By enabling Rapyd API wallet Connect Decentralized Funding App is the first of Defi kind decentralized donation app. It eliminates the majority of obstacles and risk factors that we face while Donating relief funds. It ensures transparency in a trustless environment, enabling rapid action to any disaster in the world.
 Payment Platorm that supports sending and transfering of payments. This application uses [Rapyd](https://www.rapyd.net/) payment APIs to handle payments of the user.
+
+
 
 # Prerequisite
 
