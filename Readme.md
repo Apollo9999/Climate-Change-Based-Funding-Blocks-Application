@@ -1,4 +1,4 @@
-# RapydPay Payment System
+# Climate Fintech Funding Blocks Application
 
 # Overview
 
