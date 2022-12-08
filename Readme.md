@@ -17,7 +17,7 @@
 ## STEP 1
 
 ```sh
-  git clone https://github.com/payalpatra/RapydPay-Payment-System.git
+  git clone https://github.com/Apollo9999/Climate-Change-Based-Funding-Blocks-Application.git
 ```
 
 ## STEP 2
