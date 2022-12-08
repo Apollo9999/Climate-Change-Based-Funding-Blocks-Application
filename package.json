@@ -1,5 +1,5 @@
 {
-  "name": "rapyd-pay-application",
+  "name": "fundingblocks.ml",
   "version": "1.0.0",
   "description": "This is a fintech application",
   "main": "server.js",
@@ -8,7 +8,7 @@
     "start:dev": "nodemon server.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
   },
-  "author": "Payal Patra",
+  "author": "Kiran Kumar",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
